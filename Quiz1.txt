@@ -1,0 +1,27 @@
+Q1:Answer
+    %sudo apt-repository ppa:swi-prolog/stable
+    %sudo apt-get update
+    %sudo apt-get install swi-prolog
+Q2:Answer
+    Extension of prolog knowledge base is (.pl). i,e pro1.pl
+Q3:Answer
+    we type the name of knowledge bse like (program1.pl).
+Q4:Answer
+    halt/0
+Q5:Answer
+    'h' gets us action help menu again.
+Q6:Answer
+    An atom is general purpose name with no inherent meaning.
+Q7:Answer
+    All prolog data structure are called term.
+Q8:Answer
+    Functor are synthetic units that have a finite number of arguments.
+Q9:Answer
+    Complex terms are build out of a functor followed by a sequence of arguments.
+               {copied by web}
+Q10:Answer
+    A predicate is defined by a collection of clauses,A clause is either a rule or a fact.
+Q11:Answer
+    The arity of a predicate is the dimension of the domain in the corresponding cartesian product.
+Q12:Answer
+    The process of being united or made into a whole.
