@@ -1,3 +1,10 @@
+shahrukh khan
+BSCS 6th
+Roll NO (47)
+
+
+
+
 Q1:Answer
     %sudo apt-repository ppa:swi-prolog/stable
     %sudo apt-get update
